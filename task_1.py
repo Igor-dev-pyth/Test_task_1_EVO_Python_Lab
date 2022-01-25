@@ -16,5 +16,3 @@ def direction(facing, turn):
 
     return facing_final
 
-
-print(direction("N", 0))
